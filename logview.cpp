@@ -2,7 +2,7 @@
 //       
 // Version:     1.1
 // Date:        Sprint 2023
-// Author:    
+// Author:      Aidan Latessa
 //
 // Description: Main body for logview application
 //

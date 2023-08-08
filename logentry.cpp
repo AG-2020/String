@@ -3,7 +3,7 @@
 // File:        logentry.cpp  
 //       
 // Version:     1.0
-// Date:        
+// Date:        Spring 2023
 // Author:      Aidan Latessa
 //
 // Description: Class implementation for a log entry.

@@ -4,7 +4,7 @@
 //       
 // Version:     1.0
 // Date:        
-// Author:      
+// Author:      Aidan Latessa
 //
 // Description: Class implementation for a log entry.
 //
